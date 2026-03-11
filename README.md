@@ -1,16 +1,41 @@
-# React + Vite
+📱 AI Social Media Post Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Social Media Post Generator is a web application that helps users transform raw content into engaging, platform-specific social media posts using Google's Gemini AI.
 
-Currently, two official plugins are available:
+Users can paste raw text and select platforms such as LinkedIn, Instagram, or Twitter/X, and the application generates optimized posts tailored for each platform's audience and style.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+Generate AI-powered social media posts
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Platform-specific content for LinkedIn, Instagram, and Twitter/X
 
-## Expanding the ESLint configuration
+Clean and responsive React UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Secure Gemini API integration via Netlify serverless functions
+
+Fast AI response generation
+
+🛠 Tech Stack
+
+Frontend: React, JavaScript, CSS
+
+AI API: Google Gemini API
+
+Backend: Netlify Serverless Functions
+
+Deployment: Netlify
+
+💡 Problem It Solves
+
+Creating engaging content for multiple social media platforms can be time-consuming. This tool automates content adaptation, helping creators and marketers quickly generate optimized posts from a single piece of content.
+
+🎯 Use Cases
+
+Content creators
+
+Digital marketers
+
+Startup founders
+
+Social media managers
